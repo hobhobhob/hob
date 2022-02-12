@@ -1,0 +1,72 @@
+
+<!doctype html>
+<html>
+<head>
+ <title>WEB1-HTML</title>
+ <meta charset="utf-8">
+</head>
+<body>
+  <h1><a href="index.html"web</a></h1>
+ <ul>
+ <li>HTML</li>
+ <li>CSS</li>
+ <li>JAVASCRIPT</li>
+</ul>
+
+<ol>
+ <li><a href="1.html"HTML</a></li>
+ <li><a href="2.html"CSS</a></li>
+ <li><a href="3.html"JAVASCRIPT</a></li>
+</ol>
+
+<table>
+    <tr>
+       <td>head</td>
+       <td>98.1%</td
+    </tr>
+    <tr>
+       <td>html</td>
+       <td>97.9%</td>
+    </tr>
+</table>
+
+<ul>
+ <li>정진</li>
+ <li>생활코딩</li>
+ <li>짱</li>
+</ul>
+
+<h2>HTML</h2>속성은 Attribute,위치 관계 없
+<p><a href="https://www.w3.org/TR/html4/#:~:text=This%20specification%20defines%20the%20HyperText%20Markup%20Language%20%28HTML%29%2C,4.01%2C%20which%20is%20a%20subversion%20of%20HTML%204." target="_blank" title="html5 spesification">
+Hypwetext Markup Language (HTML)</a> is the standard  <br>
+lannguage for <strong>creating <u>web</u> page</strong>
+and web applications.</p>
+<img src="coding.jpg" width="100%"
+
+<p style="margin-top:40px;">사모 / 조지훈
+
+사랑을 다해 사랑하였노라고
+정작 할 말이 남아 있음을 알았을 때
+당신은 이미 남의 사람이 되어 있었다.
+
+불러야 할 뜨거운 노래를 가슴으로 죽이며
+당신은 멀리로 잃어지고 있었다.
+
+하마 곱스런 웃음이 사라지기 전
+두고두고 아름다운 여인으로 잊어 달라지만
+남자에게서 여자란 기쁨 아니면 슬픔
+
+다섯 손가락 끝을 잘라 핏물 오선을 그려
+혼자라도 외롭지 않을 밤에 울어보리라
+울어서 멍든 눈흘김으로
+미워서 미워지도록 사랑하리라
+
+한 잔은 떠나버린 너를 위하여
+또 한잔은 너와의 영원한 사랑을 위하여
+그리고 또 한 잔은 이미 초라해진 나를 위하여
+마지막 한 잔은 미리 알고 정하신 하나님을 위하여
+</p>
+
+출처: https://itsmore.tistory.com/entry/사모-조지훈 [촌부(村夫)]
+</body>
+</html>
